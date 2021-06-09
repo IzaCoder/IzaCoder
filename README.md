@@ -1,4 +1,4 @@
-👋 Hi, I’m @IzaCoder
+👋 Hi, I’m @IzaCoder!
 I'm a high-school student who loves to:
 * Program in:
   * Python
