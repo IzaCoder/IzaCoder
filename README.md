@@ -13,7 +13,7 @@ I'm a high-school student who loves to:
 * Do gymnastics
 
 I’m currently learning Algebra 2, finishing up my Java certification, and [creating an extension to python.](https://github.com/IzaCoder/PyHance)
-Any suggestions on how to improve my python extension and pull requests are welcome!
+Any suggestions and pull requests on my python extension are welcome and highly appreciated!
 
 <!---
 IzaCoder/IzaCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
