@@ -1,6 +1,6 @@
 👋 Hi, I’m @IzaCoder!
 I'm a high-school student who loves to:
-* Program in:
+* Program in
   * Python
   * Java
   * HTML
