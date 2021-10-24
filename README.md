@@ -2,7 +2,6 @@
 I'm a high-school student who loves to:
 * Program in
   * Python
-  * Java
   * HTML
   * CSS
   * JS
